@@ -1,0 +1,102 @@
+h1{
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.list-line{
+      display: flex;
+      margin-left: 350px;
+}
+
+.S1{
+    color: rgb(41, 119, 150);
+    margin-left: 10px;
+}
+
+.S2{
+    font-size: 19px;
+    margin-left: 15px;
+}
+
+.S7{
+    margin-left: 10px;
+}
+
+.S3{
+    margin-left: 15px;
+}
+
+li{
+    font-size: 18.5px;
+}
+
+.S4{
+    font-size: 19px;
+    margin-left: 15px;
+}
+.S5{
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.S6{
+    font: size 18px;
+    margin-left: 15px;
+}
+
+
+.Image-slide{
+    display: flex;
+    margin-top: 35px;
+}
+
+.Sa{
+    width: 400px;
+    height: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 100%;
+    margin-right: 350px;
+}
+
+.Sb{
+    width: 400px;
+    height: 400px;
+    padding-right: 15px;
+    border-radius: 100%;
+}
+
+
+
+.Image-slides{
+    display: flex;
+    margin-top: 35px;
+}
+
+.Sd{
+    width: 400px;
+    height: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 100%;
+    margin-right: 350px;
+}
+
+.Se{
+    width: 400px;
+    height: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 100%;
+}
+
+.Sc{
+    width: 400px;
+    height: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 100%;
+    margin-left: 450px;
+    margin-top: 35px;
+}
